@@ -1,0 +1,4 @@
+2019-07-28 15:09:24 mongo_pool.py [line:40] WARNING: 已经存在的代理{'score': 50, 'port': '53281', 'nick_type': -1, 'area': None, 'speed': -1, 'protocol': -1, 'disuseble_dommains': [], 'ip': '202.104.113.32'}
+2019-07-28 15:11:30 mongo_pool.py [line:47] INFO: 更新代理ip：{'port': '8888', 'disuseble_dommains': [], 'speed': -1, 'nick_type': -1, 'protocol': -1, 'ip': '202.104.113.32', 'score': 50, 'area': None}
+2019-07-28 15:11:52 mongo_pool.py [line:47] INFO: 更新代理ip：{'score': 50, 'speed': -1, 'nick_type': -1, 'ip': '202.104.113.32', 'area': None, 'protocol': -1, 'port': '8888', 'disuseble_dommains': []}
+2019-07-28 15:12:05 mongo_pool.py [line:54] INFO: 删除代理ip:{'speed': -1, 'nick_type': -1, 'score': 50, 'disuseble_dommains': [], 'area': None, 'ip': '202.104.113.32', 'port': '8888', 'protocol': -1}
